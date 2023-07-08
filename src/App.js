@@ -5,6 +5,7 @@ import Home from "./Components/Home";
 import Cart from "./Components/Cart";
 
 function App() {
+  //teste comment
   return (
     <BrowserRouter>
       <Header/>
